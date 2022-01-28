@@ -1,0 +1,25 @@
+[
+    {
+      "text": "this is a sample question?",
+      "options": ["yes", "no"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "another question?",
+      "options": ["true", "false"],
+      "correctAnswer": 1
+
+  },
+  {
+      "text": "question 3?",
+      "options": ["true", "false"],
+      "correctAnswer": 0
+
+  },
+  {
+      "text": "question 4?",
+      "options": ["true", "false"],
+      "correctAnswer": 1
+
+  }
+  ]
